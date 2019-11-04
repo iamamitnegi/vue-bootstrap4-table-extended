@@ -1,11 +1,11 @@
 {
-    "name": "vue-bootstrap4-table",
+    "name": "vue-bootstrap4-table-extended",
     "version": "1.1.11",
     "main": "dist/vue-bootstrap4-table.umd.js",
     "module": "dist/vue-bootstrap4-table.esm.js",
     "unpkg": "dist/vue-bootstrap4-table.min.js",
     "description": "Advanced table based on Vue 2 and Bootstrap 4",
-    "author": "Rubanraj Ravichandran <rubanraj54@gmail.com>",
+    "author": "Amit Negi <iamamit.negi@gmail.com>",
     "scripts": {
         "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
         "start": "npm run dev",
@@ -108,7 +108,6 @@
         "type": "git",
         "url": "https://github.com/rubanraj54/vue-bootstrap4-table"
     },
-    "homepage": "https://rubanraj54.gitbook.io",
     "license": "MIT",
     "nyc": {
         "include": [
